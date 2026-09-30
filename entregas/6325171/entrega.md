@@ -22,4 +22,4 @@
 | 3 | [03_faturamento_diario.png](./evidencias/03_faturamento_diario.png) | Consulta Athena — Pedidos e Faturamento por Dia |
 | 4 | [04_integridade_orfaos.png](./evidencias/04_integridade_orfaos.png) | Consulta Athena — Integridade Referencial (Órfãos = 0) |
 | 5 | [05_dynamodb_scan.png](./evidencias/05_dynamodb_scan.png) | DynamoDB — Scan da tabela `execucoes` |
-| 6 | [06_terraform_destroy.png](./evidencias/06_terraform_destroy.png) | Terminal — `terraform destroy` concluído *(pendente: ligar Lab)* |
+| 6 | [06_terraform_destroy.png](./evidencias/06_terraform_destroy.png) | Terminal — `terraform destroy` concluído (`Destroy complete!`) |
