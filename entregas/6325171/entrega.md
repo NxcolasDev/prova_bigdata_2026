@@ -9,9 +9,7 @@
 
 ## Pull Request
 
-> Abrir o PR de `prova-6325171` → `master` no repositório original e colar o link aqui.
-
-<!-- Exemplo: https://github.com/professor/prova_bigdata_2026/pull/XX -->
+https://github.com/Tavares785/prova_bigdata_2026/pull/22
 
 ## Evidências
 
